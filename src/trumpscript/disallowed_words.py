@@ -1,1 +1,1 @@
-DISALLOWED = {}
+DISALLOWED = {"free", "small"}
